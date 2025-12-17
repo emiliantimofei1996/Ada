@@ -1,0 +1,19 @@
+project Area_Circle is
+   for Source_Dirs use (".");
+   for Object_Dir use "obj";
+   for Main use ("area_circle.adb");
+   
+   package Compiler is
+      for Default_Switches ("Ada") use ("-gnat2012", "-O2");
+   end Compiler;
+end Area_Circle;
+```
+
+**Inoltre, rinomina il tuo file sorgente in `area_circle.adb`** (deve avere l'estensione `.adb` per i file Ada).
+
+**Struttura della directory:**
+```
+/tua_cartella/
+  ├── area_circle.gpr    (file di progetto)
+  ├── area_circle.adb    (il tuo codice)
+  └── obj/               (cartella per i file compilati - creala o verrà creata automaticamente)
