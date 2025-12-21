@@ -1,0 +1,7 @@
+-- I think the hardest time sometimes in coding is when there are errors that are not suited to the tarjec project
+-- Like this: Project file has error and can't be loaded.
+-- If I use only Ada for learning I need to see this red shit on my desktop!
+-- Uff I know I should handle the error and shut up!
+-- In this part I remember I handled a different behaviour:
+-- The numbers are structured with the * (-10) method to have more precision in the output
+-- If you don't mind about details like this Ada it is not for you!
