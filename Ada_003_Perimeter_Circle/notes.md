@@ -1,1 +1,3 @@
 Here I understend the importance of be precise with the numbers by applying the .0.
+The strange behavior of claude that makes you complicated you in essence...
+Let's not talk about that!!!
